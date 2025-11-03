@@ -1,0 +1,12 @@
+# data
+/data/
+/*.csv
+*.zip
+
+# credentials
+kaggle.json
+.env
+
+# python / notebook cruft
+__pycache__/
+.ipynb_checkpoints/
